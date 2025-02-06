@@ -36,3 +36,4 @@ build/
 *.p12
 *.pem
 *.properties
+*.sql
